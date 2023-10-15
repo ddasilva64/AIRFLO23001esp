@@ -1,50 +1,35 @@
 ---
 description: >-
-  Este documento son mis notas personales del curso de Data Warehousing y modelado OLAP. Agradezco al Platzi Team y especialmente al profesor Edison Yepes este curso.
+  Este documento son mis notas personales del curso de fundamentos de Apache Airflow. Agradezco al Platzi Team y especialmente al profesor Eric Bellet este curso.
 ---
 
 # Resumen
 
-**¿Por qué debería aprender esto?**  
+**¿Por qué razón debería aprender esto?**  
 
-Para saber contruir la infraestructura de un Data Warehouse, una base de datos especializada para analítica. Debemos aprender a través de la creación de un proyecto, desde su modelado hasta su implementación. Utilizaremos Python y herramientas low-code como Pentaho con Edison Yepes como profesor  
+Para aprender a monitorizar y organizarorquestar procesos utilizando **_Python_** y una de las herramientas más populares en el mercado: Apache Airflow. Aprender lo que es un DAG, tasks, operators, schedulers para crear un workflow eficiente, con Eric Bellet como profesor en Platzi.
 
 **Desafío**
 
-* Crear modelos dimensionales OLAP y tabla de hechos.  
-* Desarrollar un ETL para inserción de datos en un data warehouse.  
-* Explorar las bases del data warehousing y su relación con el negocio.  
+* Aprender qué es, para qué y por qué utilizar Airflow
+* Desarrollar la capacidad de crear flujos de procesos que permitan desarrollar microservicios.
+* Aprender a usar Airflow como organizador de procesos.
 
 **Lo que necesitamos saber**
 
-* Programación en Python  
-* Manipulación y transformación de datos con Pandas y Numpy  
-* Bases de datos SQL
-* Fundamentos de cloud computing con AWS
-* Fundamentos de ETL
-* AWS CLI e IAM
+* **_Python_** intermedio
+* **_Docker_** básico
+* Línea de comandos básico
 
 **Software para este curso**  
 
-* Docker  
-* Git  
-* Python 3  
-* Pandas  
-* Jupyter Notebooks  
-* Pip  
-* Cuenta de AWS  
-* PostgreSQL  
-* Anaconda  
-* Pentaho Data Integration
-* DBeaver, DataGrip o DataSpell
-* AWS CLI
-* Java Development Kit
+* 
 
 **Proyecto del curso**
 
-* ***Arquitectura y ETL de Data Warehouse de ventas***  
+* ***Platzi explora el espacio***  
 
-    Modelar la arquitectura de datos y crear las tablas de la base de datos OLAP, donde se almacenará información de ventas para BI. Crear el ETL para insertar los datos usando Pentaho Data Integration, SQL y AWS Redshift  
+    Aplicar los conocimientos adquiridos en el curso emulando la solicitud y recolección de datos desde un satélite por medio de Airflow.
     
 **¿Por qué en español?**
 
