@@ -46,3 +46,4 @@ _DAG en la interface de Airflow_
 
 ## Tasks y operators
 
+## Scheduler
